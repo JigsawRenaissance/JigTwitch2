@@ -6,3 +6,4 @@ It uses essentially the same hardware as the previous build
 The most up-to-date documentation is on the Wiki at:
 http://wiki.jigren.org/Twitch2
 
+To start, load the file Twitch.pde into the Arduino IDE and upload to a board.
